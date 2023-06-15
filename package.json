@@ -1,0 +1,14 @@
+{
+  "name": "pismenik",
+  "version": "0.0.0",
+  "description": "Писменик - правила за съобщения",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Иван Пеловски",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
